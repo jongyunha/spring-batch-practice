@@ -6,8 +6,8 @@ import org.springframework.boot.runApplication
 
 @SpringBootApplication
 @EnableBatchProcessing
-class SpringBatchPraticeApplication
+class SpringBatchPracticeApplication
 
 fun main(args: Array<String>) {
-    runApplication<SpringBatchPraticeApplication>(*args)
+    runApplication<SpringBatchPracticeApplication>(*args)
 }
